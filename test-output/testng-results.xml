@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8292" started-at="2020-05-24T23:07:33 EDT" finished-at="2020-05-24T23:07:41 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8292" started-at="2020-05-24T23:07:33 EDT" finished-at="2020-05-24T23:07:41 EDT">
+      <class name="AutotraderPackage.AutotraderTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AutotraderPackage.AutotraderTest@72b6cbcc]" name="beforeTest" is-config="true" duration-ms="4867" started-at="2020-05-24T23:07:33 EDT" finished-at="2020-05-24T23:07:38 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="AutotraderSite()[pri:0, instance:AutotraderPackage.AutotraderTest@72b6cbcc]" name="AutotraderSite" duration-ms="2585" started-at="2020-05-24T23:07:38 EDT" finished-at="2020-05-24T23:07:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutotraderSite -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:AutotraderPackage.AutotraderTest@72b6cbcc]" name="afterTest" is-config="true" duration-ms="806" started-at="2020-05-24T23:07:40 EDT" finished-at="2020-05-24T23:07:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- AutotraderPackage.AutotraderTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
