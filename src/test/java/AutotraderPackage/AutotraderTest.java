@@ -34,7 +34,10 @@ public class AutotraderTest extends MyUltilityClass{
 public void model() {
 	Select day = new Select(Driver.findElement(By.xpath("//select[@name='ModelCode']")));	
 	day.selectByVisibleText("2_SERIES");
-	System.out.println("Select the car model add new line");
+	System.out.println(" add new line");
+	System.out.println(" add by somebody");
+	
+	
 }
 
 public void Select() {
