@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="8292" started-at="2020-05-24T23:07:33 EDT" finished-at="2020-05-24T23:07:41 EDT">
+  <suite name="Suite" duration-ms="10346" started-at="2020-05-25T12:59:28 EDT" finished-at="2020-05-25T12:59:38 EDT">
     <groups>
     </groups>
-    <test name="Test" duration-ms="8292" started-at="2020-05-24T23:07:33 EDT" finished-at="2020-05-24T23:07:41 EDT">
+    <test name="Test" duration-ms="10346" started-at="2020-05-25T12:59:28 EDT" finished-at="2020-05-25T12:59:38 EDT">
       <class name="AutotraderPackage.AutotraderTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AutotraderPackage.AutotraderTest@72b6cbcc]" name="beforeTest" is-config="true" duration-ms="4867" started-at="2020-05-24T23:07:33 EDT" finished-at="2020-05-24T23:07:38 EDT">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:AutotraderPackage.AutotraderTest@72b6cbcc]" name="beforeTest" is-config="true" duration-ms="4787" started-at="2020-05-25T12:59:28 EDT" finished-at="2020-05-25T12:59:33 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="AutotraderSite()[pri:0, instance:AutotraderPackage.AutotraderTest@72b6cbcc]" name="AutotraderSite" duration-ms="2585" started-at="2020-05-24T23:07:38 EDT" finished-at="2020-05-24T23:07:40 EDT">
+        <test-method status="PASS" signature="AutotraderSite()[pri:0, instance:AutotraderPackage.AutotraderTest@72b6cbcc]" name="AutotraderSite" duration-ms="4399" started-at="2020-05-25T12:59:33 EDT" finished-at="2020-05-25T12:59:37 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AutotraderSite -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:AutotraderPackage.AutotraderTest@72b6cbcc]" name="afterTest" is-config="true" duration-ms="806" started-at="2020-05-24T23:07:40 EDT" finished-at="2020-05-24T23:07:41 EDT">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:AutotraderPackage.AutotraderTest@72b6cbcc]" name="afterTest" is-config="true" duration-ms="1112" started-at="2020-05-25T12:59:37 EDT" finished-at="2020-05-25T12:59:38 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
