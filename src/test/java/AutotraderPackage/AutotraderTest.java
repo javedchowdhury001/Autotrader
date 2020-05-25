@@ -36,8 +36,13 @@ public void model() {
 	day.selectByVisibleText("2_SERIES");
 	System.out.println(" add new line");
 	System.out.println(" add by somebody");
+
 	System.out.println(" add merge line");
+
+	System.out.println(" Merge by Somebody");
 	
+	
+
 
 	
 }
