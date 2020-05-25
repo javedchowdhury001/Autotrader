@@ -17,10 +17,9 @@ public class AutotraderTest extends MyUltilityClass{
  public void AutotraderSite() {
 	  Opensite();
 	  Select();
-	 // model();
 	  zip();
-	  //clickUsed();
-	  //PriceMinimum();
+	  clicksearch();
+	 
 	  
 	
 	 
@@ -53,24 +52,22 @@ public void Select() {
 }
 
 public void zip() {
+	  Driver.findElement(By.xpath("//input[@name='zipcode']")).clear();
 	  Driver.findElement(By.xpath("//input[@name='zipcode']")).sendKeys("30340");
 	 
 }
 
-public void clickUsed() {
-	 WebElement obj=Driver.findElement(By.xpath("//input"));
+public void clicksearch() {
+	 WebElement obj=Driver.findElement(By.xpath("//button[@id='search']"));
 	 obj.click();
 	 }
 
 	 
 
-public void PriceMinimum() {
-	Select day = new Select(Driver.findElement(By.xpath("//select[@name='minPrice']")));	
-			day.selectByIndex(6);
 
 		
 }
 
-}
+
 
   
